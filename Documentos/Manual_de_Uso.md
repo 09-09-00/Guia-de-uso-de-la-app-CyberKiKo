@@ -121,6 +121,8 @@ Los resultados se muestran en **orden descendente** según el campo Line.
 
 ## **6. Selección de impresora**
 
+![Imagen de Inicio de Sesion](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/Impresoraip.jpg)
+
 Luego, debe escanear la impresora que desea utilizar.
 
 • Presione el **ícono del escáner** junto al campo Impresora.
