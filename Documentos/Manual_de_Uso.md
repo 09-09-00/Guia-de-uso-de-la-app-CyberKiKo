@@ -1,6 +1,6 @@
 # Guía de uso de la aplicación CyberKiKo
 
-Este manual detalla los pasos para usar la app de Cyberkiko y todas sus funciones de manera sencilla
+Este manual detalla los pasos para usar la app de Cyberkiko y todas sus funciones de manera sencilla y practica. 
 
 ## **1. Incio de Sesion** 
 ![Imagen de Inicio de Sesion](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/Inicio.jpeg)
@@ -14,12 +14,12 @@ inesperadamente o se pierda la conexión.
 enlace
 se encuentra en el correo de la aplicación Gmail, y es el archivo de nombre
  CyberKiko (2).apk), verifique o coloque los siguientes datos:
-o URL Base: https://idempiere-mo.monalisa.com.py
-o Puerto Base: 8443
+ URL Base: https://idempiere-mo.monalisa.com.py
+ Puerto Base: 8443
 * Luego presione Confirmar (siempre hacer Enter).
 * Para ingresar (no hace falta tocar nada si ya le aparece)
-* 1.**Usuario:** moapp
-* 2.**Contraseña:** Monalisapy
+* 1. **Usuario:** moapp
+* 2. **Contraseña:** Monalisapy
 Presione **Iniciar.**
 
 ##**2. Selección de Rol**
@@ -27,10 +27,10 @@ Presione **Iniciar.**
 
 Después del inicio de sesión, aparecerá una pantalla para seleccionar:
 
-  **● Grupo Empresarial
-    ● Rol
-    ● Organización
-    ● Depósito**
+  **● Grupo Empresarial**
+  **● Rol**
+  **● Organización**
+  **● Depósito**
 Seleccione las opciones correspondientes y presione **Confirmar.**
 
 ## **3. Menu de Opciones**
@@ -38,9 +38,9 @@ Seleccione las opciones correspondientes y presione **Confirmar.**
 ![Imagen Seleccion de Rol](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/vista_menu.jpg)
 
 Al ingresar, verá tres opciones principales:
-**● Barcode (Código de Barras)
-  ● Receipt (Recibo)
-  ● Shipment (Envío)**
+**● Barcode (Código de Barras)**
+**● Receipt (Recibo)**
+**● Shipment (Envío)**
   
 La función que utilizaremos es **Shipment**
 
@@ -73,10 +73,10 @@ En esta pantalla encontraremos la vista para imprimir los recibos.
 ### **Ingreso del Recibo**
 
 En el Recibo encontraremos:
-**● Número del recibo
-  ● Catálogo
-  ● Selección de Impresora
-  ● Etiquetas**
+**● Número del recibo**
+**● Catálogo**
+**● Selección de Impresora**
+**● Etiquetas**
   
 Hay **dos formas** de ingresar el número del Recibo
 1. **Digitando** el número manualmente.
@@ -114,8 +114,8 @@ campo.
 
 La aplicación traerá los datos del Shipment y los mostrará en una tabla.
 ### **Allí podrá ver:**
-  • El **UPC** de los productos.
-  • La **cantidad** disponible de cada uno.
+• El **UPC** de los productos.
+• La **cantidad** disponible de cada uno.
   
 Los resultados se muestran en **orden descendente** según el campo Line.
 
