@@ -23,7 +23,7 @@ o Puerto Base: 8443
 Presione **Iniciar.**
 
 ##**2. Selección de Rol**
-![Imagen de Inicio de Sesion](images/1.jpg)
+![Imagen de Inicio de Sesion](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/rol.jpg)
 
 Después del inicio de sesión, aparecerá una pantalla para seleccionar:
 
