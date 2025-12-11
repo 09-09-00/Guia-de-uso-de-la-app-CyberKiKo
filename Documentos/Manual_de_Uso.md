@@ -56,7 +56,7 @@ Hay **dos formas** de ingresar el número del Shipment:
 Para activar el escáner, presione el **ícono del lector** (el dibujo del escáner) al lado del
 campo.
 Esto permitirá que la aplicación reconozca el código de barras.
-![Imagen de Inicio de Sesion]()
+![Imagen de Inicio de Sesion](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/shipment_etiquetas.jpg)
 
 
 ● Si desea imprimir todas las etiquetas, debe seleccionar **todas las etiqueta**s antes
