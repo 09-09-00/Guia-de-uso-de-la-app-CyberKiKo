@@ -1,4 +1,4 @@
-# Documentacion de CyberKiKo  :lightbulb:
+# Documentacion de CyberKiKo  :🟦:
 
 Bienvenido al repositorio de documentacion de como usar la app movil de Cyberkiko utilizada en los dipositivos zebra :focus:
 
