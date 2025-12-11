@@ -45,7 +45,7 @@ Al ingresar, verá tres opciones principales:
 La función que utilizaremos es **Shipment**
 
 ## **4.1 Vista del Shipment**
-![Imagen de Inicio de Sesion](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/shipment_filtro_cat.jpg)
+![Imagen del Shipment](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/shipment_filtro_cat.jpg)
 
 Esta es la pantalla principal para imprimir etiquetas.
 ### **Ingreso del Shipment**
@@ -57,7 +57,7 @@ Para activar el escáner, presione el **ícono del lector** (el dibujo del escá
 campo.
 Esto permitirá que la aplicación reconozca el código de barras.
 
-![Imagen de Inicio de Sesion](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/shipment_etiquetas.jpg)
+![Imagen de etiqueta del Shipment](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/shipment_etiquetas.jpg)
 
 
 ● Si desea imprimir todas las etiquetas, debe seleccionar **todas las etiqueta**s antes
@@ -66,7 +66,7 @@ de presionar el botón de **imprimir.**
 etiqueta** en la lista.
 
 ## **4.2 Vista del Receipt**
-![Imagen de Inicio de Sesion](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/receipt_doc.jpg)
+![Imagen del Receipt](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/receipt_doc.jpg)
 
 En esta pantalla encontraremos la vista para imprimir los recibos.
 
@@ -85,7 +85,7 @@ Para activar el escáner, presione el **ícono del lector** (el dibujo del escá
 campo.
 Esto permitirá que la aplicación reconozca el código de barras.
 
-![Imagen de Inicio de Sesion](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/receipt_etiquetas.jpg)
+![Imagen de etiqueta](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/receipt_etiquetas.jpg)
 
  ● Si desea imprimir todas las etiquetas, debe seleccionar **todas las etiquetas** antes
    de presionar el botón de imprimir.
@@ -93,7 +93,7 @@ Esto permitirá que la aplicación reconozca el código de barras.
    etiqueta** en la lista.
 
 ## **4.3 Vista del Barcode**
-![Imagen de Inicio de Sesion](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/vista_upc.jpg)
+![Imagen del Barcode](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/vista_upc.jpg)
 
 En esta pantalla se encuentra la vista para imprimir etiquetas mediante código de barras.
 
@@ -121,7 +121,7 @@ Los resultados se muestran en **orden descendente** según el campo Line.
 
 ## **6. Selección de impresora**
 
-![Imagen de Inicio de Sesion](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/Impresoraip.jpg)
+![Imagen de Seleccion](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/Impresoraip.jpg)
 
 Luego, debe escanear la impresora que desea utilizar.
 
@@ -130,7 +130,7 @@ Luego, debe escanear la impresora que desea utilizar.
 
 ## **7. Impresión de etiquetas**
 
-![Imagen de Inicio de Sesion]https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/etiquetas.jpg)
+![Imagen de etiqueta](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/etiquetas.jpg)
 
 Seleccione el tipo de **Etiqueta** que desea utilizar en la lista desplegable.
 En el campo **Línea**, por defecto aparece el valor **0.**
