@@ -130,6 +130,8 @@ Luego, debe escanear la impresora que desea utilizar.
 
 ## **7. Impresión de etiquetas**
 
+![Imagen de Inicio de Sesion]https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/etiquetas.jpg)
+
 Seleccione el tipo de **Etiqueta** que desea utilizar en la lista desplegable.
 En el campo **Línea**, por defecto aparece el valor **0.**
 
