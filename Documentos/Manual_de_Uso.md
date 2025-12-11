@@ -149,7 +149,12 @@ Finalmente, presione el botón **Imprimir** para generar las etiquetas.
 ![Imagen del ejemplo de documento](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/ejmplo_documento.jpg)
 
 ## **2.  Indicaciones para la impresión**
+
 Etiquetas en formato 40x28, se imprime primero una etiqueta GUÍA, para identificar 
 Producto, Número de Línea (se imprime en orden) y Cantidad, luego se imprimen 
-las X etiquetas, nótese que para las categorías de Testers, Muestras y Gpws & 
+las X etiquetas, nótese que para las categorías de Testers, Muestras y Gpws &
 Promociones solo se imprime la etiqueta guía.
+
+![Imagen del ejemplo de documento](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/Impresion.jpg
+)
+
