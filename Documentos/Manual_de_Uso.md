@@ -1,4 +1,4 @@
-# GUIA DE USO DE LA APLICACION CYBERKIKO
+# GUIA DE USO DE LA APLICACION CYBERKIKO :star:
 
 Este manual detalla los pasos para usar la app de Cyberkiko y todas sus funciones de manera sencilla y practica. 
 
