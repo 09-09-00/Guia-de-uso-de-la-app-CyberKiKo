@@ -18,19 +18,19 @@ se encuentra en el correo de la aplicación Gmail, y es el archivo de nombre
  Puerto Base: 8443
 * Luego presione Confirmar (siempre hacer Enter).
 * Para ingresar (no hace falta tocar nada si ya le aparece)
-* 1. **Usuario:** moapp
-* 2. **Contraseña:** Monalisapy
+* **1. Usuario:** moapp
+* **2. Contraseña:** Monalisapy
 Presione **Iniciar.**
 
-##**2. Selección de Rol**
+## **2. Selección de Rol**
 ![Imagen de Inicio de Sesion](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/rol.jpg)
 
 Después del inicio de sesión, aparecerá una pantalla para seleccionar:
 
-  **● Grupo Empresarial**
-  **● Rol**
-  **● Organización**
-  **● Depósito**
+ **● Grupo Empresarial**
+ **● Rol**
+ **● Organización**
+ **● Depósito**
 Seleccione las opciones correspondientes y presione **Confirmar.**
 
 ## **3. Menu de Opciones**
@@ -60,9 +60,9 @@ Esto permitirá que la aplicación reconozca el código de barras.
 ![Imagen de etiqueta del Shipment](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/shipment_etiquetas.jpg)
 
 
-● Si desea imprimir todas las etiquetas, debe seleccionar **todas las etiqueta**s antes
+* Si desea imprimir todas las etiquetas, debe seleccionar **todas las etiqueta**s antes
 de presionar el botón de **imprimir.**
-● Si solo desea imprimir una etiqueta específica, seleccione **únicamente esa
+* Si solo desea imprimir una etiqueta específica, seleccione **únicamente esa
 etiqueta** en la lista.
 
 ## **4.2 Vista del Receipt**
@@ -87,9 +87,9 @@ Esto permitirá que la aplicación reconozca el código de barras.
 
 ![Imagen de etiqueta](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/receipt_etiquetas.jpg)
 
- ● Si desea imprimir todas las etiquetas, debe seleccionar **todas las etiquetas** antes
+* Si desea imprimir todas las etiquetas, debe seleccionar **todas las etiquetas** antes
    de presionar el botón de imprimir.
- ● Si solo desea imprimir una etiqueta específica, seleccione **únicamente esa
+* Si solo desea imprimir una etiqueta específica, seleccione **únicamente esa
    etiqueta** en la lista.
 
 ## **4.3 Vista del Barcode**
