@@ -56,6 +56,8 @@ Hay **dos formas** de ingresar el número del Shipment:
 Para activar el escáner, presione el **ícono del lector** (el dibujo del escáner) al lado del
 campo.
 Esto permitirá que la aplicación reconozca el código de barras.
+![Imagen de Inicio de Sesion]()
+
 
 ● Si desea imprimir todas las etiquetas, debe seleccionar **todas las etiqueta**s antes
 de presionar el botón de **imprimir.**
