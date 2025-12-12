@@ -50,7 +50,7 @@ The function we will use is **Shipment**
 
 This is the main screen for printing labels.
 
-## **Entering the Shipment Number**
+### **Entering the Shipment Number**
 
 There are **two ways** to enter the Shipment Number:
 
@@ -105,7 +105,7 @@ Once all the data is completed, press the **Print** button to finish the process
 
 The application will retrieve the Shipment data and display it in a table.
 
-## **There you will see:**
+### **There you will see:**
 * The **UPC** of the products.
 * The **quantity** available for each product.
 The results are displayed in **descending order** according to the Line field.
@@ -133,9 +133,9 @@ If you want to print only a specific line, type the line number and press **Ente
 ![Printer Image](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/impresora_etiqueta.jpg)
 
 Finally, press the **Print** button to generate the labels.
-# **Example of how it should look:**
+# **Example of how it should look:** ⬇️
 
-## **1. Document to scan**
+## **1. Document to scan** 
 
 ![Image of the example document](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/ejmplo_documento.jpg)
 
