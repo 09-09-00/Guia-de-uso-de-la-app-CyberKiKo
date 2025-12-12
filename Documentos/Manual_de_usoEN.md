@@ -36,7 +36,7 @@ Select the corresponding options and press **Confirm.**
 
 ## **3. Options Menu**
 
-![Role Selection Image](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/vista_menu.jpg)
+![Role Selection Image](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/vista_menu.jpg)
 
 Upon entering, you will see three main options:
 * **Barcode**
@@ -46,7 +46,7 @@ Upon entering, you will see three main options:
 The function we will use is **Shipment**
 
 ## **4.1 Shipment View**
-![Shipment Image](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/shipment_filtro_cat.jpg)
+![Shipment Image](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/shipment_filtro_cat.jpg)
 
 This is the main screen for printing labels.
 
@@ -65,7 +65,7 @@ This will allow the application to recognize the barcode.
 * To print only a specific label, select **only that label** from the list.
 
 ## **4.2 Receipt View**
-![Receipt Image](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/receipt_doc.jpg)
+![Receipt Image](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/receipt_doc.jpg)
 
 This screen displays the view for printing receipts.
 
@@ -83,13 +83,13 @@ There are **two ways** to enter the receipt number:
 To activate the scanner, press the **reader icon** (the scanner icon) next to the field.
 This will allow the application to recognize the barcode.
 
-![Label Image](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/receipt_etiquetas.jpg)
+![Label Image](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/receipt_etiquetas.jpg)
 
 * If you want to print all labels, you must select **all labels** before pressing the print button.
 * If you only want to print a specific label, select **only that label** from the list.
 
 ## **4.3 Barcode View**
-![Barcode Image](https://github.com/09-09-00/Gu-a-de-uso-de-la-Aplicaci-n-CyberKiKo/blob/main/Documentos/Imagenes/vista_upc.jpg)
+![Barcode Image](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/vista_upc.jpg)
 
 This screen displays the view for printing labels using barcodes.
 
