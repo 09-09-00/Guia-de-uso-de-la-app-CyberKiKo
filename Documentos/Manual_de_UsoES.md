@@ -101,7 +101,7 @@ Para ingresar el número del código de barras se escanea el **código UPC**, el
 automáticamente los datos del producto, luego se repiten los pasos de la impresora y se
 selecciona la etiqueta.
 
-Para activar el escáner, presione el **ícono del lector** (el dibujo del escáner) al lado del
+📍Para activar el escáner, presione el **ícono del lector** (el dibujo del escáner) al lado del
 campo.
   * En el campo **Cant.**, se debe indicar la cantidad de **etiquetas que se desea
     imprimir.**
@@ -143,11 +143,11 @@ Finalmente, presione el botón **Imprimir** para generar las etiquetas.
 
 # **Ejemplo de cómo debe salir:** ⬇️
 
-## **1. Documento a escanear**
+## **1. Documento a escanear** ✨
 
 ![Imagen del ejemplo de documento](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/ejmplo_documento.jpg)
 
-## **2.  Indicaciones para la impresión**
+## **2.  Indicaciones para la impresión** ℹ️
 
 Etiquetas en formato 40x28, se imprime primero una etiqueta GUÍA, para identificar 
 Producto, Número de Línea (se imprime en orden) y Cantidad, luego se imprimen 
