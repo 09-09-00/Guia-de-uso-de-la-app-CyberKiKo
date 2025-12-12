@@ -56,7 +56,7 @@ There are **two ways** to enter the Shipment Number:
 
 1. **By typing** the number manually.
 2. **By scanning** the code with the reader.
-To activate the scanner, press the **reader icon** (the scanner icon) next to the field.
+📍To activate the scanner, press the **reader icon** (the scanner icon) next to the field.
 This will allow the application to recognize the barcode.
 
 ![Shipment Label Image](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/shipment_etiquetas.jpg)
@@ -135,7 +135,7 @@ If you want to print only a specific line, type the line number and press **Ente
 Finally, press the **Print** button to generate the labels.
 # **Example of how it should look:** ⬇️
 
-## **1. Document to scan** 
+## **1. Document to scan** ✨
 
 ![Image of the example document](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/ejmplo_documento.jpg)
 
