@@ -1,4 +1,4 @@
-# CYBERKIKO APPLICATION USER GUIDE :star:
+# CYBERKIKO APPLICATION USER GUIDE 
 
 This manual details the steps to use the Cyberkiko app and all its functions in a simple and practical way.
 ## **Login**
@@ -135,7 +135,7 @@ If you want to print only a specific line, type the line number and press **Ente
 Finally, press the **Print** button to generate the labels.
 # **Example of how it should look:** ⬇️
 
-## **1. Document to scan** ✨
+## **1. Document to scan**
 
 ![Image of the example document](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/ejmplo_documento.jpg)
 
