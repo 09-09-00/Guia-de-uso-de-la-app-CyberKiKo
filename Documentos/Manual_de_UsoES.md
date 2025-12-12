@@ -1,4 +1,4 @@
-# GUIA DE USO DE LA APLICACION CYBERKIKO :star:
+# GUIA DE USO DE LA APLICACION CYBERKIKO 
 
 Este manual detalla los pasos para usar la app de Cyberkiko y todas sus funciones de manera sencilla y practica. 
 
@@ -144,11 +144,11 @@ Finalmente, presione el botón **Imprimir** para generar las etiquetas.
 
 # **Ejemplo de cómo debe salir:** ⬇️
 
-## **1. Documento a escanear** ✨
+## **1. Documento a escanear** 
 
 ![Imagen del ejemplo de documento](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/ejmplo_documento.jpg)
 
-## **2.  Indicaciones para la impresión** ℹ️
+## **2.  Indicaciones para la impresión** ️ℹ️
 
 Etiquetas en formato 40x28, se imprime primero una etiqueta GUÍA, para identificar 
 Producto, Número de Línea (se imprime en orden) y Cantidad, luego se imprimen 
