@@ -5,7 +5,7 @@ Este manual detalla los pasos para usar la app de Cyberkiko y todas sus funcione
 ## **1. Incio de Sesion** 
 ![Imagen de Inicio de Sesion](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/Inicio.jpeg)
 
-### :warning: **Importante:** 
+### :warning:  **Importante:** 
 Esta parte ya está configurada en los dispositivos Zebra.
 No es necesario modificar la URL ni el puerto a menos que la aplicación se cierre
 inesperadamente o se pierda la conexión.
