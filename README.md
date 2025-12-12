@@ -1,4 +1,4 @@
-# Documentacion de CyberKiKo 💙
+# Documentacion de CyberKiKo 
 Bienvenido al repositorio de Documentacion de como usar la app movil de Cyberkiko utilizada en los dipositivos zebra.
 
 ## Elige tu idioma / Choose your language 🌐
