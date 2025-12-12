@@ -31,6 +31,7 @@ Después del inicio de sesión, aparecerá una pantalla para seleccionar:
  * **Rol**
  * **Organización**
  * **Depósito**
+
 Seleccione las opciones correspondientes y presione **Confirmar.**
 
 ## **3. Menu de Opciones**
