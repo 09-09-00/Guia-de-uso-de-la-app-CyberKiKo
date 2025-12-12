@@ -102,7 +102,7 @@ Para ingresar el número del código de barras se escanea el **código UPC**, el
 automáticamente los datos del producto, luego se repiten los pasos de la impresora y se
 selecciona la etiqueta.
 
-📍Para activar el escáner, presione el **ícono del lector** (el dibujo del escáner) al lado del
+Para activar el escáner, presione el **ícono del lector** (el dibujo del escáner) al lado del
 campo.
   * En el campo **Cant.**, se debe indicar la cantidad de **etiquetas que se desea
     imprimir.**
