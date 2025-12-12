@@ -5,7 +5,7 @@ This manual details the steps to use the Cyberkiko app and all its functions in 
 
 ![Login Image](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/Inicio.jpeg)
 
-### :warning   **Important**
+### :warning:   **Important**
 This part is already configured on Zebra devices.
 You don't need to modify the URL or port unless the application closes unexpectedly or the connection is lost.
 
