@@ -141,7 +141,7 @@ Si desea imprimir solo una línea específica, escriba el número de línea y pr
 
 Finalmente, presione el botón **Imprimir** para generar las etiquetas.
 
-# **Ejemplo de cómo debe salir:**
+# **Ejemplo de cómo debe salir:** ⬇️
 
 ## **1. Documento a escanear**
 
