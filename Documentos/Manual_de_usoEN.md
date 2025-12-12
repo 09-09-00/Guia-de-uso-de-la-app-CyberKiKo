@@ -32,6 +32,7 @@ After logging in, a screen will appear where you can select:
 * **Organization**
 
 * **Warehouse**
+
 Select the corresponding options and press **Confirm.**
 
 ## **3. Options Menu**
