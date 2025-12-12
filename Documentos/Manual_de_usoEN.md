@@ -139,7 +139,7 @@ Finally, press the **Print** button to generate the labels.
 
 ![Image of the example document](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/ejmplo_documento.jpg)
 
-## **2. Printing instructions**
+## **2. Printing instructions** ℹ️
 Labels in 40x28 format. First, print a GUIDE label to identify the
 Product, Line Number (printed in order), and Quantity. Then print the X labels. Note that for the Testers, Samples, and Gpws & Promotions categories, only the guide label is printed.
 ![Image of the sample document](https://github.com/09-09-00/Guia-de-uso-de-la-app-CyberKiKo/blob/main/Documentos/Imagenes/Impresion.jpg
